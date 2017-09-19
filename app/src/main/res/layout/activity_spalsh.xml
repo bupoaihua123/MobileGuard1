@@ -18,5 +18,4 @@
     android:layout_centerHorizontal="true"
     android:layout_below="@+id/pb_splash"
     android:text="version:1.2"/>
-    
 </RelativeLayout>
